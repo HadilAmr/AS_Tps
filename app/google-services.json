@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "979032752360",
+    "project_id": "firstappfirebase-b8d37",
+    "storage_bucket": "firstappfirebase-b8d37.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979032752360:android:b76b226e261e80f023895d",
+        "android_client_info": {
+          "package_name": "com.example.calculatrice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4jLEdud-DyKwhOtqgIiJvfnbj-LhvfN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

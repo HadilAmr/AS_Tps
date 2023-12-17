@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My DataBase Application</string>
+    <string name="default_web_client">979032752360-7a5tqfdvsv62gjn5jgi5okkeku8cvpcf.apps.googleusercontent.com</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="facebook_app_id">199470303222526</string>
+    <string name="fb_login_protocol_scheme">fb199470303222526</string>
+    <string name="facebook_client_token">c63f2e077ce868d6d786f15ab5f33dca</string>
+
+
+</resources>
